@@ -1,4 +1,4 @@
-TITLE 7LOOP.ASM
+TITLE 7LOOP.ASM                    ;;simple TASM (x86) loop
 DOSSEG
 .MODEL SMALL
 .STACK 0100h
